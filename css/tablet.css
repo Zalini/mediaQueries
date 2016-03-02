@@ -1,0 +1,22 @@
+@media all and (max-width: 959px){
+
+body {
+	background: yellow;
+}
+
+h1 {
+	text-align: center;
+}
+
+.boxes{
+  	float: left ;
+    width: 25%;
+    height: 150px;
+    background: white;
+    color: orange;
+    font-size: 25px;
+ 	margin: 10%;
+ 	border-radius: 25%;
+ 	text-align: center;
+}
+}

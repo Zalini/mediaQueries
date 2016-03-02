@@ -1,0 +1,21 @@
+@media all and (min-width: 960px){
+
+body {
+	background: #383838;
+	color: white;
+}
+
+h1 {
+	text-align: center;
+}
+
+.boxes {
+  	float: left ;
+    width: 200px;
+    height: 200px;
+    background: white;
+    color: orange;
+    font-size: 25px;
+ 	margin: 5%;
+}
+}
